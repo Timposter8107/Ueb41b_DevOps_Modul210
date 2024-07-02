@@ -7,4 +7,4 @@
         /// </summary>
         public float Preis { get; set; }
     }
-}
+} 
