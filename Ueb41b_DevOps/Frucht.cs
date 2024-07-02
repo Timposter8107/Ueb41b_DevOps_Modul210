@@ -6,5 +6,5 @@
         /// Preis einer Frucht
         /// </summary>
         public float Preis { get; set; }
-    }
+    } 
 } 
